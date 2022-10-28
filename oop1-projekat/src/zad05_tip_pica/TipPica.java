@@ -1,0 +1,6 @@
+package zad05_tip_pica;
+
+public enum TipPica {
+
+	GAZIRANO, NEGAZIRANO, ALKOHOLNO, BEZALKOHOLNO, HLADJENO, NEHLADJENO
+}
